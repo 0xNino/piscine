@@ -1,0 +1,5 @@
+Credentials cache: API:E02BDB3E-EE49-4194-8A56-668648D93E4E
+        Principal: ngenoud@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug 31 11:08:44 2021  Aug 31 21:08:39 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
