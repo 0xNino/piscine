@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_abs.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/21 16:10:26 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/21 16:10:27 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/21 16:10:26 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/*
+
 #ifndef FT_ABS_H
 # define FT_ABS_H
 # define ABS(Value) ((Value) < 0 ? -(Value) : (Value))

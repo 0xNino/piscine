@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/08 22:36:39 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/13 18:42:16 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/08 22:36:39 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <string.h>
+
 #include <stdio.h>
 
 char	*ft_strstr(char *str, char *to_find);

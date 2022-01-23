@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/09 14:36:06 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/13 14:51:51 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/09 14:36:06 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <string.h>
+
 #include <stdio.h>
 
 int	ft_strlen(char *str);

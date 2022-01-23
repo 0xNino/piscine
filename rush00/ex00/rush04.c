@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   rush04.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/04 17:27:35 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/05 10:47:47 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/04 17:27:35 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-void	ft_putchar(char c);
+
 void	print_first_line(int i, int x);
 void	print_border(int i, int x);
 void	print_last_line(int i, int x);

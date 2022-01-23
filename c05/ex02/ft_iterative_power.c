@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_iterative_power.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/15 17:38:23 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/15 17:38:25 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/15 17:38:23 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
+
 #include <stdlib.h>
 
 int	ft_iterative_power(int nb, int power)

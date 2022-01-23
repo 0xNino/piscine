@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcapitalize.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/06 17:37:58 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/08 01:06:30 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/06 17:37:58 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
+
 
 char	*ft_strcapitalize(char *str);
 char	ft_strupcase(char c);

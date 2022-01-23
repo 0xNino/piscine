@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_div_mod.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/03 12:46:49 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/05 15:03:28 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/03 12:46:49 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
+
 void	ft_ultimate_div_mod (int *a, int *b);
 
 int	main(void)

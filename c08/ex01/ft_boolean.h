@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_boolean.h                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ngenoud <marvin@42lausanne.ch>             +#+  +:+       +#+        */
+/*   By: 0xNino <marvin@42lausanne.ch>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/21 16:10:00 by ngenoud           #+#    #+#             */
-/*   Updated: 2021/09/21 16:10:02 by ngenoud          ###   ########.fr       */
+/*   Created: 2021/09/21 16:10:00 by 0xNino            #+#    #+#             */
+/*   Updated: 2022/01/23 22:31:03 by 0xNino           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/*
+
 #ifndef FT_BOOLEAN_H
 # define FT_BOOLEAN_H
 # include <unistd.h>
